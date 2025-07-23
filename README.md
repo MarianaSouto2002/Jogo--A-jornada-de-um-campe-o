@@ -69,7 +69,7 @@ Arquiteturas adicionais do projeto:
 
 
 
-Tabela Hash (Desafio 2: O Cofre Rápido)
+                *Tabela Hash (Desafio 2: O Cofre Rápido)
 -Contexto: Armazenar e consultar instantaneamente os dados de atletas em um grande banco de dados simulado da federação, utilizando o número de registro como chave única para acesso imediato.
 -Implementação:
     1. Uma classe TabelaHashAtletas foi criada para encapsular toda a lógica.
